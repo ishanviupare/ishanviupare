@@ -4,7 +4,7 @@
 **ishanviupare/ishanviupare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a Computer Science and Disability Inclusion student at the University of Illinois Chicago (Class of 2029), currently working with @wics-uic as a Website Developer.
+I'm a Computer Science and Disability Inclusion student at the University of Illinois Chicago (Class of 2029), currently working with [WiCS@UIC](https://github.com/wics-uic) as a Website Developer.
 
 I’m exploring web development with React/Next.js and learning Python to build a [Discord bot](https://github.com/ishanviupare/orbcvs-discord-bot) for my community.
 
